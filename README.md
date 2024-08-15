@@ -1,4 +1,4 @@
-# coding_test
+# Coding Test
 
 - Programmers
 - Baekjoon
